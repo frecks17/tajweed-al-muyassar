@@ -1,0 +1,50 @@
+{
+  "izhar": {
+    "title": "الإظهار",
+    "url": "https://quran.com/ar/113/3"
+  },
+  "idgham-ghunnah": {
+    "title": "الإدغام بغنة",
+    "url": "https://quran.com/ar/99/7"
+  },
+  "idgham-no-ghunnah": {
+    "title": "الإدغام بغير غنة",
+    "url": "https://quran.com/ar/104/1"
+  },
+  "iqlab": {
+    "title": "الإقلاب",
+    "url": "https://quran.com/ar/96/15"
+  },
+  "ikhfa": {
+    "title": "الإخفاء",
+    "url": "https://quran.com/ar/113/2"
+  },
+  "qalqalah": {
+    "title": "القلقلة",
+    "url": "https://quran.com/ar/112/1"
+  },
+  "madd-natural": {
+    "title": "المد الطبيعي",
+    "url": "https://quran.com/ar/109/1"
+  },
+  "madd-muttasil": {
+    "title": "المد المتصل",
+    "url": "https://quran.com/ar/110/1"
+  },
+  "madd-munfasil": {
+    "title": "المد المنفصل",
+    "url": "https://quran.com/ar/108/1"
+  },
+  "madd-badal": {
+    "title": "مد البدل",
+    "url": "https://quran.com/ar/106/1"
+  },
+  "madd-arid": {
+    "title": "المد العارض للسكون",
+    "url": "https://quran.com/ar/1/2"
+  },
+  "madd-lazim": {
+    "title": "المد اللازم",
+    "url": "https://quran.com/ar/1/7"
+  }
+}
