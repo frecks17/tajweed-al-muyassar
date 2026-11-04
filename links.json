@@ -49,6 +49,42 @@
   },
   "madd-silah-lin-awad": {
     "title": "مد الصلة واللين والعوض",
-    "url": "https://quran.com/ar/76/1"
+    "url": "https://quran.com/ar/17/30"
+  },
+  "izhar-example-2": {
+    "title": "الإظهار — حاسد إذا",
+    "url": "https://quran.com/ar/113/5"
+  },
+  "iqlab-example-2": {
+    "title": "الإقلاب — من بعد",
+    "url": "https://quran.com/ar/2/27"
+  },
+  "ikhfa-example-2": {
+    "title": "الإخفاء — من شر",
+    "url": "https://quran.com/ar/113/4"
+  },
+  "qalqalah-example-2": {
+    "title": "القلقلة — أحد",
+    "url": "https://quran.com/ar/112/1"
+  },
+  "madd-natural-example-2": {
+    "title": "المد الطبيعي — لا أعبد",
+    "url": "https://quran.com/ar/109/2"
+  },
+  "madd-badal-example-2": {
+    "title": "مد البدل — إيلافهم",
+    "url": "https://quran.com/ar/106/2"
+  },
+  "madd-arid-example-2": {
+    "title": "المد العارض للسكون — الدين",
+    "url": "https://quran.com/ar/1/4"
+  },
+  "madd-lazim-example-2": {
+    "title": "المد اللازم — الحاقة",
+    "url": "https://quran.com/ar/69/1"
+  },
+  "madd-silah-lin-awad-example-2": {
+    "title": "مد اللين — خوف",
+    "url": "https://quran.com/ar/106/4"
   }
 }
